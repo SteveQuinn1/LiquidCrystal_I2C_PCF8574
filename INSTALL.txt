@@ -1,0 +1,1 @@
+Put the "LiquidCrystal_I2C_PCF8574" folder in your Arduino "libraries" folder. 

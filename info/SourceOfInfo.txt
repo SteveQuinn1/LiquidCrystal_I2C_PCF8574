@@ -1,0 +1,18 @@
+Data Sheets and information
+---------------------------
+TI        : http://www.ti.com/lit/an/slva704/slva704.pdf
+TI        : http://www.ti.com/lit/an/slva689/slva689.pdf
+TI        : http://www.ti.com/lit/an/scaa106/scaa106.pdf
+MICROCHIP : http://ww1.microchip.com/downloads/en/DeviceDoc/i2c.pdf
+Arduino   : http://playground.arduino.cc/Code/LCDAPI
+Arduino   : http://playground.arduino.cc/Code/LCD
+Arduino   : http://playground.arduino.cc/Code/LCDi2c
+LCD       : https://www.sparkfun.com/datasheets/LCD/HD44780.pdf
+PCF8574   : http://www.nxp.com/documents/data_sheet/PCF8574.pdf
+I2C       : http://www.nxp.com/documents/application_note/AN10216.pdf
+General   : http://hmario.home.xs4all.nl/arduino/LiquidCrystal_I2C/
+General   : http://wentztech.com/radio/arduino/files/LCDI2C.html
+YouTube   : https://youtu.be/TIU1eTQZ3c4
+
+
+Note : The CharGen1.xlsm spread sheet contains VBA code to help design new characters quickly and easily.

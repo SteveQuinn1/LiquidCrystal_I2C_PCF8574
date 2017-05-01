@@ -1,0 +1,15 @@
+{
+  "name": "LiquidCrystal_I2C_PCF8574",
+  "keywords": "LCD, signal, input, ouput, I2C",
+  "description": "I2C LCD Display Library for Arduino using the PCF8574P",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SteveQuinn1/LiquidCrystal_I2C_PCF8574"
+  },
+  "version": "1.0",
+  "exclude": [
+    "*.zip"
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
